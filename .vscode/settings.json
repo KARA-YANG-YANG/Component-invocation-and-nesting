@@ -1,0 +1,26 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "e:\\Espressif\\esp\\v5.4.1\\esp-idf",
+  "idf.pythonInstallPath": "e:\\Espressif\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.toolsPathWin": "e:\\Espressif\\.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "files.associations": {
+    "config": "cortex-debug.disassembly",
+    "esp_chip_info.h": "c",
+    "stdio.h": "c",
+    "stdint.h": "c",
+    "led.h": "c",
+    "key.h": "c",
+    "esp_system.h": "c",
+    "esp_flash.h": "c",
+    "freertos.h": "c",
+    "task.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM3"
+}
